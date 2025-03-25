@@ -64,7 +64,7 @@ The dataset contains details of sales transactions over time, including Order ID
 2. Incentives for Customers: Offer benefits such as free shipping for orders exceeding a certain amount to encourage bulk purchases.
 
  
-**What Success Means for QUad Ltd**
+**What Success Means for Quad Ltd**
 
 Success for Quad Ltd is defined by:
 
